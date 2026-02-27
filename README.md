@@ -1,4 +1,4 @@
-# EarthQuake in Nepal1.png
+# Nepal Earthquake Data Analysis
 
 <p float="left"> <img src="EarthQuake in Nepal1.png" width="30%" /> <img src="EarthQuake in Nepal2.png" width="30%" /> <img src="EarthQuake in Nepal3.png" width="30%" /> </p>
 
